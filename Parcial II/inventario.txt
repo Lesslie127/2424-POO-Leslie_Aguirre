@@ -1,0 +1,4 @@
+1,Manzanas,50,0.3
+2,Naranjas,75,0.25
+3,Plátanos,100,0.2
+4,Pera,1,0.35
